@@ -1,0 +1,4 @@
+probleme : 
+
+    quand je consol.log ça met des double guillemet en plus 
+    et ca coupe quand il voie une virgule dans la description 
